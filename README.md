@@ -1,1 +1,1 @@
-# kidney-stone-predictio-urine-analysis
+# kidney-stone-prediction-urine-analysis
